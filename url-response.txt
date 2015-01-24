@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><title>TinyURL.com - shorten that long URL into a tiny URL</title> <base href="http://tinyurl.com/"><meta name="google-site-verification" content="FKj2fbrOEwHQ0EKE74gNhtLt1VS1PRKbCxdthSDk5tk" /><link rel="shortcut icon" href="/siteresources/images/favicon.ico" type="image/gif"><link href="/siteresources/css/tinyurl_style.css" rel="stylesheet" type="text/css" /><script><!--function ff(){document.f.url.focus();}// --></script> <script type='text/javascript'>function tt(){var t = new Image();t.src="http://an.affec.tv/seg?add=182872&t=2";}function xx(){var s = new Image();s.src='http://rc.rlcdn.com/333201.gif?n=1';}</script> <script type='text/javascript'>var googletag = googletag || {};googletag.cmd = googletag.cmd || [];(function() {var gads = document.createElement('script');gads.async = true;gads.type = 'text/javascript';var useSSL = 'https:' == document.location.protocol;gads.src = (useSSL ? 'https:' : 'http:') +'//www.googletagservices.com/tag/js/gpt.js';var node = document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads, node);})();</script> <script type='text/javascript'>googletag.cmd.push(function() {googletag.defineSlot('/34718310/TEST_300x600_Homepage', [300, 600], 'div-gpt-ad-1361894497480-0').addService(googletag.pubads());googletag.pubads().enableSingleRequest();googletag.enableServices();});</script> </head><body onload=xx();><script type="text/javascript">var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6779119-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><table width="100%" cellpadding="10" cellspacing="0" border="0" style="background-color : #000099; color : White; font-size : 14px;"><tr><td style="background-color : #000099; color : White; font-size : 14px;"><h1 style="font-size : 50px; margin-bottom : 0%;"><a href="http://tinyurl.com/" style="font-size : 50px; margin-bottom : 0%; text-decoration : none; color : White">TinyURL.com</a></h1>Making over a billion long URLs usable! Serving billions of redirects per month.</td></tr></table><table width="100%"><tr><td width="150" valign="top" rowspan="2"><table cellpadding="10" width="100%"><tr><td class="sidebar"><b><a href="http://tinyurl.com/">Home</a></b><br /><br /><b><a href="/#example">Example</a></b><br /><br /><b><a href="/#toolbar">Make Toolbar Button</a></b><br /><br /><b><a href="/#redirect">Redirection</a></b><br /><br /><b><a href="/#hide">Hide URLs</a></b><br /><br /><b><a href="/preview.php">Preview Feature</a><sup><small>cool!</small></sup></b><br /><br /><b><a href="/#link">Link to Us!</a></b><br /><br /><b><a href="/#terms">Terms of use</a></b><br /><br /><b><a href="mailto:support&#64;tinyurl.com">Contact Us!</a></b><br /><br /></td></tr></table><center><a href='https://www.fundraise.com/tinyurl' style="display:block; background:url(donate-now.png) no-repeat left top; width:140px; height:55px; text-indent:-9999px;">Online Fundraising</a> <!--<form action="https://www.paypal.com/cgi-bin/webscr" method="post"><input type="hidden" name="cmd" value="_s-xclick"><input type="hidden" name="hosted_button_id" value="TJDXGVAJXC9M6"><input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"><img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1"></form>--></center></td><td height="98" align="center" style="background-color : #F1F0FF;"><!--er  = 1355;        admeld_site       = 'tinyurl';        admeld_size       = '728x90';        admeld_placement   = 'atf';        admeld_no_iframe = true;        </script>        <script type="text/javascript" src="http://js.admeld.com/meld128.js"></script>--><script type="text/javascript"><!--			e9 = new Object();		    e9.size = "728x90,468x60";		//--></script> <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TinyURLcom/Backfill/tags.js"></script></td></tr><tr><td valign="top"><br /><table cellpadding="5" align="right"><tr><td width="310" height="610" valign="top" align="right"><div id='div-gpt-ad-1361894497480-0' style='width:300px; height:600px;'><script type='text/javascript'>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1361894497480-0'); });		</script></div><!--<script type="text/javascript"><!--			e9 = new Object();		    e9.size = "300x250,120x600,160x600,300x600";		//--</script>		<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/TinyURLcom/Backfill/tags.js"></script>--><br /></td></tr></table><div><h1>TinyURL was created!</h1><p>The following URL:<blockquote><b>http://pinterest.com/jashd<br /></b></blockquote>has a length of 26 characters and resulted in the following TinyURL which has a length of 26 characters:<blockquote><b>http://tinyurl.com/mz72ytb</b><div id="success" style="margin-left:40px;display:inline;"></div><br><small>[<a href="http://tinyurl.com/mz72ytb" target="_blank">Open in new window</a>]</small><div id="copy_div" style="display:inline;margin-left:5px;"></div></blockquote>Or, give your recipients confidence with a preview TinyURL:<blockquote><b>http://preview.tinyurl.com/mz72ytb</b><br><small>[<a href="http://preview.tinyurl.com/mz72ytb" target="_blank">Open in new window</a>]</small></blockquote></p><form><!--//--></form><div id="copyinfo" data-clipboard-text="http://tinyurl.com/mz72ytb"><i><b>How to copy and paste the TinyURL:</b> To copy the TinyURL to your clipboard, right click the link under the TinyURL and select the copy link location option. To paste the TinyURL into a document, press Ctrl and V on your keyboard, or select &quot;paste&quot; from the edit menu of the program you are using.</i></div><style type="text/css">.copybutton{text-align:center;border:1px solid black;background-color:#ccc;margin:10px;padding:10px;width:200px;}</style> <script type="text/javascript" src="/siteresources/js/ZeroClipboard.js"></script> <script language="JavaScript">var clip = new ZeroClipboard( document.getElementById('copy_div') );
+			
+			clip.on( 'complete', function ( client, args ) {
+			    document.getElementById('success').innerHTML = '<b>This TinyURL was copied to your clipboard</b>';
+			  } );
+		
+			clip.on( 'dataRequested', function ( client, args ) {
+			    clip.setText('http://tinyurl.com/mz72ytb');
+			  } );
+		
+			clip.on( 'load', function(client, args) {
+			    var elem = document.getElementById('copy_div');
+			    elem.innerHTML = "<span style='text-decoration:underline;color:blue;display:inline'><small>[Copy to clipboard]</small></span>";
+				elem = document.getElementById('copyinfo');
+				elem.style.display = 'none';
+		      } );
+		
+		    clip.on( 'noflash', function(client, args) {
+		        var elem = document.getElementById('copy_div');
+		        elem.style.display = 'none';
+		        document.getElementById('copyinfo').innerHTML = "<i><b>How to copy and paste the TinyURL:</b> To copy the TinyURL to your clipboard, right click the link under the TinyURL and select the copy link location option. To paste the TinyURL into a document, press Ctrl and V on your keyboard, or select &quot;paste&quot; from the edit menu of the program you are using.</i>";
+		    });
+		
+		    clip.on( 'wrongflash', function(client, args) {
+		        var elem = document.getElementById('copy_div');
+		        elem.style.display = 'none';
+		        if (window.clipboardData) {
+		            window.clipboardData.setData("Text",'http://tinyurl.com/mz72ytb');
+		        } else {
+		            var flashcopier = 'flashcopier';
+		            if(!document.getElementById(flashcopier)) {
+		            	var divholder = document.createElement('div');
+		              	divholder.id = flashcopier;
+		              	document.body.appendChild(divholder);
+		        	}
+		            document.getElementById(flashcopier).innerHTML = '';
+		            var divinfo = '<embed src="_clipboard.swf" FlashVars="clipboard='+escape('http://tinyurl.com/mz72ytb')+'" width="0" height="0" type="application/x-shockwave-flash"></embed>';
+		            document.getElementById(flashcopier).innerHTML = divinfo;
+		            
+		        }
+		        document.getElementById('copyinfo').innerHTML = "<b>This TinyURL may have been copied to your clipboard.</b> To paste it in a document, press and hold down the ctrl key (command key for Mac users) while pressing the V key, or choose the &quot;paste&quot; option from the edit menu.<br />";
+		    }); 
+		
+		    window.onresize=function() {
+		        clip.reposition();
+		    } 
+		</script><form action="create.php" method="post"><table align="center" cellpadding="5" class="create-form"><tr><td><b>Enter another long URL to make tiny:</b><br /><input type="text" name="url" value="" size="30"> <input type="submit" name="submit" value="Make TinyURL!"><hr>Custom alias (optional):<br /><tt>http://tinyurl.com/</tt> <input type="text" name="alias" value="" size="12" maxlength="30"><br /><small>May contain letters, numbers, and dashes.</small></td></tr></table></form></div></td></tr></table><br><!--//--><!--<div id="komoona_layout_5b0ba73f5b2eb77fdb2fefe1e7df7e95" align="center"></div><script type="text/javascript" src="http://cdn.komoona.com/scripts/kmn_sa.js"></script>--><br><table width="100%" cellpadding="5" cellspacing="0"><tr><td class="sidebar"><i>Copyright &copy; 2002-2014 TinyURL, LLC. All rights reserved.</i><br />TinyURL is a trademark of TinyURL, LLC.</td><td align="right" class="sidebar"><a href="/privacy.php">Privacy</a></td></tr></table><script type="text/javascript">var _qevents = _qevents || [];(function() {var elem = document.createElement('script');elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem, scpt);})();_qevents.push({qacct:"p-85Tqni4j2acvI"});</script> <noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-85Tqni4j2acvI.gif" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><!--//--><SCRIPT TYPE="text/javascript" SRC="http://loadus.exelator.com/load/?p=360&g=001&ref=http%3A%2F%2Fpinterest.com%2Fjashd"></SCRIPT> <!--//--><script type="text/javascript">document.write('<script type="text/javascript" src="http://ads.saymedia.com/ai01901d44be8a970b01901d44bf97970b.js?ord='+ Math.random() + '"></sc'+'ript>');</script> <!--//--></body></html>
